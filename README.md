@@ -1,6 +1,6 @@
 # TFIDF API 
  
-This repository contains the griphite test project.
+This repository contains the graphite test project.
 
 ## Requeriment
 - Python ≥ v3.6
